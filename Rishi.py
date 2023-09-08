@@ -1,1 +1,1 @@
-print('You are Beautiful')
+print('You are Beautiful : ) ')
