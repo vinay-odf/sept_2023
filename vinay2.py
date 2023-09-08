@@ -1,2 +1,2 @@
 x = 'Vinay'
-print('Hi Welocme!' + ' ' + x)
+print('Hi Welcome! {0}'.format(x))
